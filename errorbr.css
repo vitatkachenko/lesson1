@@ -1,5 +1,7 @@
 table {
-	background-color: orange;
-  	padding: 40px;
+	background-color: green;
+  	padding: 400px;
   	margin: 100px;
+  	margin: 0 auto;
+  	display: block;
 }
